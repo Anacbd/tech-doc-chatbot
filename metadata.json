@@ -1,0 +1,6 @@
+{
+  "name": "Resumidor e Chatbot com Streamlit & Gemini",
+  "description": "Aplicação completa em Python/Streamlit com Google GenAI (Gemini) para extração, resumo estruturado e chatbot Q&A de artigos e documentações técnicas em PDF ou URL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
